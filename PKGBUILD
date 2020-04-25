@@ -1,5 +1,4 @@
-# Script generated with import_catkin_packages.py
-# For more information: https://github.com/bchretien/arch-ros-stacks
+# For more information: https://github.com/okasha55/rtabmap-ros_aur/
 pkgdesc="ROS - RTAB-Maps ros-pkg."
 url='http://www.ros.org/'
 
